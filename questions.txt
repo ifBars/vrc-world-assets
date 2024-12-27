@@ -1,4 +1,4 @@
-Gaming:25
+Gaming:50
 What is your favorite childhood game?
 What game have you spent the most hours playing?
 What game do you think everyone should try at least once?
@@ -24,7 +24,37 @@ If you could design your own video game, what would it be like?
 What game are you most excited for that's coming out?
 What’s the most emotional moment you’ve had in a game?
 What game do you think has the most creative world-building?
-Couples:25
+What’s your favorite indie game?
+What’s the funniest glitch you’ve ever experienced in a game?
+What’s a game that made you rage quit?
+What’s a game you always come back to no matter how old it gets?
+Who’s your favorite video game villain?
+What’s the weirdest game you’ve ever played?
+What’s a game you’ve 100% completed?
+What’s the scariest game you’ve ever played?
+What’s a game you started but never finished?
+What’s your favorite co-op game?
+What’s the most competitive game you’ve played?
+What’s a game that surprised you with how good it was?
+What’s the best plot twist you’ve experienced in a game?
+Who’s your favorite video game protagonist?
+What’s a game you wish had a sequel?
+What’s the oldest game you still enjoy playing?
+What’s the best weapon you’ve used in a video game?
+What’s the funniest dialogue or quote you’ve heard in a game?
+What’s a game you’d love to see turned into a movie or TV show?
+What’s your favorite DLC or expansion pack?
+What’s the most frustrating puzzle or challenge you’ve solved in a game?
+What’s a game you wish more people knew about?
+What’s the most creative character customization you’ve seen?
+What’s the best in-game decision you’ve made?
+What’s a game mechanic you think more games should use?
+Couples:30
+What’s your favorite memory from your first few dates?
+What’s one way you’ve grown as a couple since you first met?
+What’s something you’ve learned from each other that changed your perspective?
+What’s your couple’s goal for the next five years?
+What’s something you’d love to learn or improve on together?
 What’s your ideal date night?
 What’s the first thing you noticed about each other?
 What’s the most meaningful gift you’ve ever received from each other?
@@ -50,7 +80,17 @@ What’s a dream you both share for the future?
 What’s a small thing your partner does that always makes you happy?
 What’s the funniest thing that’s happened to you as a couple?
 How do you support each other during tough times?
-Sexual:25
+Sexual:35
+What’s the most romantic thing you’ve done in bed?
+What’s something that helps you relax and feel more intimate?
+How do you like to explore each other’s desires outside of the bedroom?
+What’s a small gesture that turns you on the most?
+How do you feel about spontaneous moments of intimacy?
+What’s the most meaningful thing you’ve learned about each other’s intimacy needs?
+What do you think makes your connection in bed so special?
+How do you communicate your needs and wants during sex?
+What’s something you want to try to make your intimate moments even more special?
+What’s your idea of the perfect aftercare routine?
 What’s something that instantly turns you on?
 What’s something you’ve always wanted to say during sex but never have?
 What’s the most intimate thing you’ve ever done together?
@@ -76,7 +116,17 @@ How do you feel about taking charge in the bedroom?
 What’s a sexual turn-off for you?
 What’s something you’d like to teach each other about sex?
 What do you think makes your sexual connection special?
-Movies & TV Shows:25
+Movies & TV Shows:35
+What TV show character do you think would make a great movie villain?
+What’s a movie that perfectly captures your personality?
+What movie or TV show has influenced the way you view the world?
+What’s a plot twist in a movie or TV show that you didn’t see coming?
+Who’s an underrated character from a movie or TV show you think deserves more attention?
+What’s your favorite scene from any TV show or movie?
+What TV show or movie would you watch with a group of friends just to get their reactions?
+What’s your favorite movie quote that you often use in real life?
+Which movie or TV show has the best world-building in your opinion?
+What’s the longest TV series you’ve watched and felt truly invested in?
 What movie could you watch over and over again?
 If you could live in the world of any movie or show, which one would it be?
 Who’s your favorite movie character of all time?
@@ -102,7 +152,17 @@ What TV show do you wish would make a comeback?
 If you could act in any movie, which one would it be?
 What’s a TV show that you didn’t expect to love but did?
 What’s a movie or TV show that you’ve never seen but really want to watch?
-Favorites:25
+Favorites:35
+What’s your favorite dessert to share with someone?
+What’s your favorite way to unwind after a long day?
+What’s your favorite childhood hobby that you’ve never outgrown?
+What’s your favorite thing to do during your lunch break?
+What’s your favorite way to celebrate a success or achievement?
+What’s your favorite type of weather to experience with someone?
+What’s your favorite type of party to attend?
+What’s your favorite piece of clothing you’ve ever owned?
+What’s your favorite family tradition?
+What’s your favorite thing to do in nature?
 What’s your all-time favorite song?
 What’s your favorite food to eat together?
 What’s your favorite thing to do on a rainy day?
@@ -180,7 +240,12 @@ What’s your idea of a perfect day?
 What’s a question you’ve never found the answer to?
 What’s something you’ve always believed, but now question?
 If you had to live your life based on one piece of advice, what would it be?
-Variety:25
+Variety:30
+If you could witness any historical event firsthand, what would it be?
+What’s something you do every day that brings you joy?
+If you could instantly speak another language, what would it be?
+What’s something you’ve always wanted to build or create?
+What’s the most spontaneous thing you’ve ever done?
 If you could switch lives with anyone for a day, who would it be?
 What would your dream job be?
 If you could only eat one meal for the rest of your life, what would it be?
@@ -232,7 +297,10 @@ What’s your favorite sexual fantasy?
 What’s the most unexpected thing you’ve done to turn someone on?
 What’s your favorite way to spice things up in the bedroom?
 What’s your opinion on watching adult content with a partner?
-Kinks & Fetishes:25
+Kinks & Fetishes:28
+What’s your opinion on using restraints during intimacy?
+What’s a kink that you think could enhance emotional connection?
+How do you feel about discussing boundaries before experimenting with kinks?
 What’s a kink you’ve always wanted to explore but haven’t?
 What’s your opinion on incorporating fetishes into relationships?
 What’s your favorite type of kink to engage in?
@@ -284,7 +352,12 @@ What’s your favorite non-physical thing your partner does for you?
 What’s something you think is key to maintaining a healthy intimate relationship?
 What’s the most heartfelt thing a partner has ever done for you?
 What’s your most cherished moment together with a partner?
-Exploration & Desires:25
+Exploration & Desires:30
+What’s something non-sexual that turns you on?
+What’s a new experience you’d love to try with a partner?
+How do you feel about the idea of connecting intimately in unconventional places?
+What’s the most exciting new thing you’ve discovered about yourself sexually?
+What’s something about intimacy that you think is often misunderstood?
 What’s something you’ve always wanted to try in the bedroom but never have?
 How do you feel about experimenting with new partners?
 What’s your favorite kind of touch that gets you in the mood?
