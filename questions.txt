@@ -1,4 +1,4 @@
-Gaming:
+Gaming:25
 What is your favorite childhood game?
 What game have you spent the most hours playing?
 What game do you think everyone should try at least once?
@@ -24,7 +24,7 @@ If you could design your own video game, what would it be like?
 What game are you most excited for that's coming out?
 What’s the most emotional moment you’ve had in a game?
 What game do you think has the most creative world-building?
-Couples:
+Couples:25
 What’s your ideal date night?
 What’s the first thing you noticed about each other?
 What’s the most meaningful gift you’ve ever received from each other?
@@ -50,7 +50,7 @@ What’s a dream you both share for the future?
 What’s a small thing your partner does that always makes you happy?
 What’s the funniest thing that’s happened to you as a couple?
 How do you support each other during tough times?
-Sexual:
+Sexual:25
 What’s something that instantly turns you on?
 What’s something you’ve always wanted to say during sex but never have?
 What’s the most intimate thing you’ve ever done together?
@@ -76,7 +76,7 @@ How do you feel about taking charge in the bedroom?
 What’s a sexual turn-off for you?
 What’s something you’d like to teach each other about sex?
 What do you think makes your sexual connection special?
-Movies & TV Shows:
+Movies & TV Shows:25
 What movie could you watch over and over again?
 If you could live in the world of any movie or show, which one would it be?
 Who’s your favorite movie character of all time?
@@ -102,7 +102,7 @@ What TV show do you wish would make a comeback?
 If you could act in any movie, which one would it be?
 What’s a TV show that you didn’t expect to love but did?
 What’s a movie or TV show that you’ve never seen but really want to watch?
-Favorites:
+Favorites:25
 What’s your all-time favorite song?
 What’s your favorite food to eat together?
 What’s your favorite thing to do on a rainy day?
@@ -128,7 +128,7 @@ What’s your favorite place to visit on vacation?
 What’s your favorite book of all time?
 What’s your favorite way to relax after a long day?
 What’s your favorite childhood TV show?
-Personal Reflection:
+Personal Reflection:25
 What’s a fear you’ve overcome in your life?
 What’s something you’ve learned about yourself recently?
 What’s something you want to achieve in the next year?
@@ -154,7 +154,7 @@ What’s your definition of success?
 What’s something you want to let go of in your life?
 What’s something that always makes you laugh?
 What’s a moment in your life that changed your perspective on the world?
-Deep Thoughts:
+Deep Thoughts:25
 What do you think is the meaning of life?
 What’s something you’ve always wanted to ask but never have?
 What’s your biggest dream for the future?
@@ -180,7 +180,7 @@ What’s your idea of a perfect day?
 What’s a question you’ve never found the answer to?
 What’s something you’ve always believed, but now question?
 If you had to live your life based on one piece of advice, what would it be?
-Variety:
+Variety:25
 If you could switch lives with anyone for a day, who would it be?
 What would your dream job be?
 If you could only eat one meal for the rest of your life, what would it be?
@@ -206,7 +206,7 @@ What’s your most unusual talent?
 What’s the most important quality you look for in a friend?
 What’s the most spontaneous thing you’ve ever done?
 If you could invent something that would change the world, what would it be?
-Sexual 2:
+Sexual 2:25
 What’s your biggest turn-on?
 How do you feel about experimenting with kinks?
 What’s your favorite way to be touched?
@@ -232,7 +232,7 @@ What’s your favorite sexual fantasy?
 What’s the most unexpected thing you’ve done to turn someone on?
 What’s your favorite way to spice things up in the bedroom?
 What’s your opinion on watching adult content with a partner?
-Kinks & Fetishes:
+Kinks & Fetishes:25
 What’s a kink you’ve always wanted to explore but haven’t?
 What’s your opinion on incorporating fetishes into relationships?
 What’s your favorite type of kink to engage in?
@@ -258,7 +258,7 @@ What’s something you think everyone should try when exploring kink?
 What’s the most powerful experience you’ve had during a kink session?
 How do you feel about the psychological aspects of kink?
 What’s the most intimate thing you’ve done as part of a kink?
-Couples 2:
+Couples 2:25
 What’s a quirky habit of yours that you hope your partner never finds out about?
 What’s the most romantic gesture you’ve ever made?
 What’s your love language?
@@ -284,7 +284,7 @@ What’s your favorite non-physical thing your partner does for you?
 What’s something you think is key to maintaining a healthy intimate relationship?
 What’s the most heartfelt thing a partner has ever done for you?
 What’s your most cherished moment together with a partner?
-Exploration & Desires:
+Exploration & Desires:25
 What’s something you’ve always wanted to try in the bedroom but never have?
 How do you feel about experimenting with new partners?
 What’s your favorite kind of touch that gets you in the mood?
