@@ -1,3 +1,4 @@
+12/27/2024 - Added 70+ more questions, some help with common issues on the walls, and an instance master & total questions display. Oh and QVPens too!
 12/26/2024 - Added this changelog, a mirror, and made questions be downloaded upon joining for easier updating/addition of future questions!
 12/24/2024 - Completed board network syncing so you can play with friends! Also added YT Search & Asteroids!
 12/23/2024 - This world was created!
