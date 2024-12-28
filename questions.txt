@@ -49,7 +49,10 @@ What’s a game you wish more people knew about?
 What’s the most creative character customization you’ve seen?
 What’s the best in-game decision you’ve made?
 What’s a game mechanic you think more games should use?
-Couples:30
+Couples:33
+What is one thing your partner is good at?
+What's the best text you ever received from your partner?
+What did you think your partner was going to be like in bed? What are they actually like?
 What’s your favorite memory from your first few dates?
 What’s one way you’ve grown as a couple since you first met?
 What’s something you’ve learned from each other that changed your perspective?
@@ -154,7 +157,8 @@ What TV show do you wish would make a comeback?
 If you could act in any movie, which one would it be?
 What’s a TV show that you didn’t expect to love but did?
 What’s a movie or TV show that you’ve never seen but really want to watch?
-Favorites:35
+Favorites:36
+What's your favorite late night snack?
 What’s your favorite dessert to share with someone?
 What’s your favorite way to unwind after a long day?
 What’s your favorite childhood hobby that you’ve never outgrown?
@@ -190,7 +194,11 @@ What’s your favorite place to visit on vacation?
 What’s your favorite book of all time?
 What’s your favorite way to relax after a long day?
 What’s your favorite childhood TV show?
-Personal Reflection:26
+Personal Reflection:30
+What do all your friends have in common?
+What do all your exes have in common?
+What childhood traditions still matter to you?
+What's been your favorite age so far?
 What’s something you’ve done that you’re super proud of, but most people would never guess?
 What’s a fear you’ve overcome in your life?
 What’s something you’ve learned about yourself recently?
@@ -217,7 +225,11 @@ What’s your definition of success?
 What’s something you want to let go of in your life?
 What’s something that always makes you laugh?
 What’s a moment in your life that changed your perspective on the world?
-Deep Thoughts:35
+Deep Thoughts:39
+What's one thing you definitely believe in?
+What 3 qualities do you value most in a person?
+What do your friends come to you for advice on?
+What meal feels like home?
 If you could talk to your future self, what’s the first question you’d ask?
 If you had to live in a different time period, which one would you choose and why?
 If you could write a letter to your future self 10 years from now, what would you say?
@@ -253,7 +265,9 @@ What’s your idea of a perfect day?
 What’s a question you’ve never found the answer to?
 What’s something you’ve always believed, but now question?
 If you had to live your life based on one piece of advice, what would it be?
-Variety:53
+Variety:55
+What do you watch when you can't fall asleep?
+What do you enjoy doing most at the beach?
 What’s the weirdest food combination you secretly love?
 If you could only eat one food for the rest of your life, what would it be?
 If you were a fruit, what kind would you be and why?
