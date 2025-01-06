@@ -119,7 +119,7 @@ How do you feel about taking charge in the bedroom?
 What’s a sexual turn-off for you?
 What’s something you’d like to teach each other about sex?
 What do you think makes your sexual connection special?
-Movies & TV Shows:37
+Movies & TV Shows:50
 If you could see one movie again for the first time, which one would it be and why?
 If your life was a movie, what would the title be?
 What TV show character do you think would make a great movie villain?
@@ -157,7 +157,20 @@ What TV show do you wish would make a comeback?
 If you could act in any movie, which one would it be?
 What’s a TV show that you didn’t expect to love but did?
 What’s a movie or TV show that you’ve never seen but really want to watch?
-Favorites:36
+What movie or TV show do you find yourself recommending the most?
+If you could rewrite the ending of any movie or TV show, which would it be?
+What movie or TV show has the best visual effects in your opinion?
+What character from a movie or TV show do you think is the most misunderstood?
+If you could bring one TV character to life, who would it be?
+What movie did you watch as a kid that still holds up today?
+What’s a movie or show that you’re embarrassed to admit you love?
+What’s the most overrated movie or TV show in your opinion?
+What actor or actress would you love to see in more roles?
+What movie or TV show has the best opening sequence?
+What movie or show would you recommend for a rainy day?
+What’s the most intense scene you’ve ever seen in a movie or TV show?
+What’s the best season finale you’ve ever watched?
+Favorites:52
 What's your favorite late night snack?
 What’s your favorite dessert to share with someone?
 What’s your favorite way to unwind after a long day?
@@ -194,7 +207,23 @@ What’s your favorite place to visit on vacation?
 What’s your favorite book of all time?
 What’s your favorite way to relax after a long day?
 What’s your favorite childhood TV show?
-Personal Reflection:30
+What’s your favorite guilty pleasure food?
+What’s your favorite type of movie genre?
+What’s your favorite scent or smell?
+What’s your favorite time of day and why?
+What’s your favorite thing to do when you’re feeling creative?
+What’s your favorite gift you’ve ever received?
+What’s your favorite memory with a friend?
+What’s your favorite song to sing along to?
+What’s your favorite subject you ever studied in school?
+What’s your favorite podcast or radio show?
+What’s your favorite way to spend time alone?
+What’s your favorite drink to order at a coffee shop?
+What’s your favorite way to show someone you care?
+What’s your favorite plant or flower?
+What’s your favorite type of pet and why?
+What’s your favorite way to spend a holiday morning?
+Personal Reflection:50
 What do all your friends have in common?
 What do all your exes have in common?
 What childhood traditions still matter to you?
@@ -225,6 +254,26 @@ What’s your definition of success?
 What’s something you want to let go of in your life?
 What’s something that always makes you laugh?
 What’s a moment in your life that changed your perspective on the world?
+What’s a memory that always brings you peace?
+What’s a risk you took that paid off?
+What’s the kindest thing someone has ever done for you?
+What’s the hardest truth you’ve ever had to accept?
+What’s your proudest personal growth moment?
+What’s a book or movie that changed the way you think?
+What’s something you’ve recently forgiven yourself for?
+What’s a personal value you’ll never compromise on?
+What’s something you’ve done that you never thought you could?
+What’s a challenge you’ve faced that made you stronger?
+What’s something you’ve learned about love over time?
+What’s your proudest moment from the past year?
+What’s a dream you’ve had since childhood?
+What’s a moment when you felt most connected to others?
+What’s a time when you surprised yourself?
+What’s the most important thing you’ve learned from failure?
+What’s a compliment you’ve received that stuck with you?
+What’s something that always motivates you to keep going?
+What’s a memory you cherish the most?
+What’s a promise you’ve made to yourself?
 Deep Thoughts:39
 What's one thing you definitely believe in?
 What 3 qualities do you value most in a person?
@@ -265,7 +314,7 @@ What’s your idea of a perfect day?
 What’s a question you’ve never found the answer to?
 What’s something you’ve always believed, but now question?
 If you had to live your life based on one piece of advice, what would it be?
-Variety:55
+Variety:99
 What do you watch when you can't fall asleep?
 What do you enjoy doing most at the beach?
 What’s the weirdest food combination you secretly love?
@@ -319,8 +368,52 @@ What’s the best meal you’ve ever had?
 What’s the weirdest thing you’ve ever eaten?
 What’s your most unusual talent?
 What’s the most important quality you look for in a friend?
-What’s the most spontaneous thing you’ve ever done?
 If you could invent something that would change the world, what would it be?
+What would you do if you could time travel for a day?
+If you could pick one superpower to have for a day, what would it be?
+What’s the best concert you’ve ever been to?
+What’s your ideal way to spend a day off?
+If you could donate a large sum of money to any cause, what would it be?
+What’s the most memorable trip you’ve taken?
+If you could only watch one TV show for the rest of your life, what would it be?
+What’s the most unusual or unexpected skill you have?
+What’s something you’ve always wanted to try but have been too scared to?
+What’s your go-to comfort food?
+What’s something you’ve never done but would like to cross off your bucket list?
+What’s your favorite childhood toy?
+What’s the most beautiful place you’ve ever been to?
+If you could be a character in any book, who would you be?
+What’s something you’ve always wanted to own but never have?
+If you could create your perfect day, what would it look like?
+If you could only listen to one genre of music for the rest of your life, what would it be?
+What’s the weirdest thing you’ve done in the name of fun?
+If you could spend a day with any fictional character, who would it be?
+What’s the most fun thing you’ve done recently?
+What’s the best vacation you’ve ever taken?
+What’s your most prized possession?
+If you could live in any time period, when would it be and why?
+What’s the hardest challenge you’ve faced so far in life?
+What’s the most interesting fact you know?
+If you could be a famous athlete for a day, which sport would you choose?
+What’s something you’ve never been good at but wish you were?
+If you could be any animal for a day, which one would you choose?
+If you could have a dinner party with any three people (dead or alive), who would they be?
+What’s the most thoughtful gift you’ve ever given?
+What’s the most random thing you’ve Googled?
+If you could choose to be famous for one thing, what would it be?
+What’s the most unusual place you’ve visited?
+If you had to choose between living in space or under the sea, which would you pick?
+What’s the funniest thing that’s happened to you recently?
+If you could live in any fictional universe, which one would it be?
+What’s the most adventurous food you’ve tried and liked?
+What’s the best way to spend a rainy afternoon?
+If you could get rid of one common annoyance, what would it be?
+What’s the weirdest thing you’ve collected over the years?
+If you could be any age for a week, what age would you choose?
+What’s the best prank you’ve ever pulled off?
+What’s the most awkward thing that’s ever happened to you in public?
+If you could be a guest on any reality show, which one would it be?
+What’s the most unique talent or skill you wish you had?
 Sexual 2:25
 What’s your biggest turn-on?
 How do you feel about experimenting with kinks?
